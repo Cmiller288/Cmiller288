@@ -10,6 +10,7 @@ I've been a student at UNA for almost 3 years; I have experience in networking a
 
 * 🌍  I'm based in Florence Alabama
 * ✉️  You can contact me at [Cmiller26@una.edu](mailto:Cmiller26@una.edu)
+* Here's my linked Linkedin page: https://www.linkedin.com/in/christian-miller-2b40b31a8/
 * See my pinned repo below to find out what i'm currently working on :) 
 
 <p align="left">
